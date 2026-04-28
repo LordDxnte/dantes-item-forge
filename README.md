@@ -23,7 +23,7 @@ Built entirely with standard Python libraries and PyWebView for a zero-bloat, na
 
 3. Run the same command: pyinstaller --onefile --windowed item_finder.py.
 
-4.It will produce an item_finder.exe in the dist/ folder.
+4. It will produce an item_finder.exe in the dist/ folder.
 
 ## 🚀 How to Make it an Executable on Linux.
 
