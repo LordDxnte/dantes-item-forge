@@ -15,4 +15,21 @@ Built entirely with standard Python libraries and PyWebView for a zero-bloat, na
    ```bash
    git clone [https://github.com/yourusername/dantes-item-forge.git](https://github.com/yourusername/dantes-item-forge.git)
    cd dantes-item-forge
+## 🚀 How to Make it an Executable on Windows.
+
+1. Install Python on the Windows PC.
+
+2. pip install pywebview PyQt6 PyInstaller.
+
+3. Run the same command: pyinstaller --onefile --windowed item_finder.py.
+
+4.It will produce an item_finder.exe in the dist/ folder.
+
+## 🚀 How to Make it an Executable on Linux.
+
+1. Open Terminal:
+   ```bash
+   pip install pyinstaller
+   pyinstaller --onefile --windowed item_finder.py
+   
 ****YOU ONLY NEED TO PUT YOUR API ONCE, IT WILL SAVE IT IN A CONFIG AFTER THAT.****
