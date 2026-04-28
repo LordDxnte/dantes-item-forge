@@ -15,3 +15,4 @@ Built entirely with standard Python libraries and PyWebView for a zero-bloat, na
    ```bash
    git clone [https://github.com/yourusername/dantes-item-forge.git](https://github.com/yourusername/dantes-item-forge.git)
    cd dantes-item-forge
+****YOU ONLY NEED TO PUT YOUR API ONCE, IT WILL SAVE IT IN A CONFIG AFTER THAT.****
